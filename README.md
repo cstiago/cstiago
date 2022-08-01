@@ -17,6 +17,8 @@
     <samp>
         ~
         <a href="https://www.linkedin.com/in/cstiago/"> LinkedIn </a>
+        <p>·</p>
+        <a href="https://cstiago.hashnode.dev/"> Blog </a>
         ~
     </samp>
     <br>
